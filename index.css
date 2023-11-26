@@ -1,0 +1,19 @@
+img{
+    width: 200px;
+    display: none;
+}
+.off{
+    display: block;
+}
+
+button {
+    margin-right: 10px;
+    margin-top: 20px;
+    font-size: 28px;
+    padding: 20px 50px;
+}
+.box-parent {
+    margin-top: 50px;
+    display: flex;
+    justify-content: center;
+}
