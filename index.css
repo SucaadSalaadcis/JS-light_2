@@ -1,6 +1,7 @@
 img{
     width: 200px;
     display: none;
+    margin-left: 58px;
 }
 .off{
     display: block;
